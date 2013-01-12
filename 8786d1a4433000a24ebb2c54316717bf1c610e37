@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//+WY\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-01-12T06:04:42Z",
+      "side": 1,
+      "message": "There is no good matching translation in Greek for this app name. I think it\u0027s better to leave it like this",
+      "revId": "8786d1a4433000a24ebb2c54316717bf1c610e37",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
