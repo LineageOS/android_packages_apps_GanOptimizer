@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//+YQ\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-12T05:09:39Z",
+      "side": 1,
+      "message": "Don\u0027t you want to translate \u0027optimizer\u0027? In Dutch, it was translated as \u0027optimization\u0027.",
+      "revId": "8c4bd539bec27935d23496f0d82cfa12fa9d62f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+YY\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-12T05:09:39Z",
+      "side": 1,
+      "message": "Wi-Fi",
+      "revId": "8c4bd539bec27935d23496f0d82cfa12fa9d62f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+YU\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-12T05:09:39Z",
+      "side": 1,
+      "message": "Wi-Fi",
+      "revId": "8c4bd539bec27935d23496f0d82cfa12fa9d62f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
